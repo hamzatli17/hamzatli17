@@ -1,17 +1,17 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hchaichi Akrem</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza Tlili</h1>
 <h3 align="center">I'm a passionate Full Stack JS Developer from Tunisia.</h3>
 
 ## 🙋‍♂️ About Me
 
--   🔭 I’m currently working at **[Digit-u](https://www.linkedin.com/company/digit-u-agence-digitale-en-tunisie/mycompany/)**
 
--   🌱 I’m currently learning **Data Structures and Algorithms.**
+
+
 
 -   👯 I’m looking to collaborate on **OpenSource Projects**
 
--   📫 How to reach me **hchaichi-akrem@outlook.fr**
+-   📫 How to reach me **hamzatli17@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -64,8 +64,6 @@
 ## Connect with me:
 
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/akrem-h/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
