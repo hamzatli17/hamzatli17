@@ -6,6 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
+-   🔭 I’m currently working at **[Digit-u](https://www.linkedin.com/company/digit-u-agence-digitale-en-tunisie/mycompany/)**
+
+-   🌱 I’m currently learning **Data Structures and Algorithms.**
+
+-   👯 I’m looking to collaborate on **OpenSource Projects**
+
+-   📫 How to reach me **hchaichi-akrem@outlook.fr**
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzatli17&label=Profile%20views&color=0e75b6&style=flat" alt="hamzatli17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzatli17" alt="hamzatli17" /></a> </p>
